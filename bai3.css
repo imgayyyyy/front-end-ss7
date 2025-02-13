@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans";
+    font-size: 16px;
+}
+
+.content {
+    width: 300px;
+}
+
+table img {
+    width: 30px;
+    margin-right: 10px;
+}
+
+body {
+    margin: 20px;
+}
+
+table {
+    margin-bottom: 10px;
+}
+
+.img img {
+    width: 300px;
+}
+
+.text {
+    margin-top: 20px;
+}
+
+.text h2,
+h3,
+p {
+    margin-bottom: 10px;
+}
+
+.text h3 {
+    color: #454961;
+}
+
+.text h2 {
+    font-weight: bold;
+}
+
+.text p {
+    font-weight: lighter;
+    color: #4d4d4d;
+    font-size: 12px;
+}
